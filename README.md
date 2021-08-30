@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ardizanki
+- 👋 Hi, I’m @ardinzanki
 - 👀 I’m interested in data analyst and mobile application
-- 🌱 I’m currently learning mysql, javascript and kotlin
+- 🌱 I’m currently learning mysql, javascript and typescript
 
 <!---
 ardizanki/ardizanki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
